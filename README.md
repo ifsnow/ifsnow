@@ -11,4 +11,4 @@
 - Made everything for service for 20 years
 - Now, I'm a React Native App Developer
 - Company Project: [Cake App](https://mycake.me)
-- My Project: [React Native Toys](https://react-native.toys)
+- Personal Project: [React Native Toys](https://react-native.toys)
